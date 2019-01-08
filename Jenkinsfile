@@ -3,5 +3,5 @@
 @Library('MicroserviceBuilder') _
 microserviceBuilderPipeline {
   image = 'tobesjava'
-  test = false
+  test = 'false'
 }
